@@ -1,2 +1,2 @@
-# lingprog20242
-Repositório da Disciplina de Linguagem de Programação do Curso de Engenharia Elétrica 2024/2
+# Linguagem de Progamação
+Repositório da Disciplina de Linguagem de Programação do Curso de Engenharia Elétrica 2
